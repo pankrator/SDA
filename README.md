@@ -11,4 +11,5 @@ For each word that is found you have to print the word itself and in what file i
 **Note 2**: In the input folder you will have only files, that means that you won't have any subdirectories containing more txt files.
 
 **Hint 1**: Use ``HasMap`` for storing found words. Check in Google for how to use it.
+
 **Hint 2**: Use ``BufferedReader`` to read lines from a file. Check in Google for how to use it.
