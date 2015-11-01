@@ -17,3 +17,10 @@ For each word that is found you have to print the word itself and in what file i
 
 **Hint 3**: Use ``BufferedReader`` to read lines from a file. Check in Google for how to use it.
 
+
+An example output should look like this:
+```
+word1 - file1.txt file2.txt
+word2 - not found
+abracadabra - magic.txt
+```
