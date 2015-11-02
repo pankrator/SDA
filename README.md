@@ -31,6 +31,6 @@ word2 - not found
 
 **Hint 1:**: Check out ``File`` class in Java for conviniece method for traversing files in folder.
 
-**Hint 2**: Use ``HasMap`` for storing found words. Check in Google for how to use it.
+**Hint 2**: Use ``HashMap`` for storing found words. Check in Google for how to use it.
 
 **Hint 3**: Use ``BufferedReader`` to read lines from a file. Check in Google for how to use it.
