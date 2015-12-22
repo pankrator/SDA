@@ -6,12 +6,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class FrontBookkeeper implements IFrontBookkeeper {
+public class FrontBookkeeper855260 implements IFrontBookkeeper {
 
 	private Map<String,Unit> front;
 	
 	private StringBuilder sb;
-	public FrontBookkeeper() {
+	public FrontBookkeeper855260() {
 		front = new HashMap<String, Unit>();
 		sb = new StringBuilder();
 	}
@@ -79,7 +79,7 @@ public class FrontBookkeeper implements IFrontBookkeeper {
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		FrontBookkeeper bookkeeper = new FrontBookkeeper();
+		FrontBookkeeper855260 bookkeeper = new FrontBookkeeper855260();
 		List<String> lines = new ArrayList<String>();
 		String line=null;
 		while(true) {
