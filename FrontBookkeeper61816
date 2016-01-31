@@ -1,0 +1,7 @@
+public class FrontBookkeeper61816 implements IFrontBookkeeper {
+    public String updateFront(String[] news)
+    {
+    	
+    }
+    
+}
